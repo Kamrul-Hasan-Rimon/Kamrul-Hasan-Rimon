@@ -1,14 +1,14 @@
 # 💫 Hi 👋, I'm Kamrul Hasan
 **A Junior Full Stack(MERN) Developer from Comilla, Bangladesh**
 
-Email Me 👉 ✉️ **lnahar958@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **khrimon377@live.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** A MERN-stack web app named FlexFit.This project is a fitness platform enabling users to track progress, book trainers, manage roles (admin, trainer, member), and engage in a community forum.
 - 🌱 **I’m currently learning:** Advanced React Concepts (Hooks, Context API) , GSAP Animations , Framer Motion , and improving my UI/UX design skills using Figma to become a more well-rounded full-stack developer.
 - 👯 **I’m looking to collaborate on:** Open-source MERN Stack projects , portfolio enhancements , or real-world web apps that challenge me to grow technically and creatively.
 - 🤔 **I’m looking for help with:** Improving project deployment workflows , mastering advanced Git practices , and getting feedback on how to better structure and present personal/full-stack projects.
 - 💬 **Ask me about:** MERN Stack development, project walkthroughs, beginner coding tips, or how to break into tech as a self-taught developer.
-- 📫 **How to reach me:** lnahar958@gmail.com
+- 📫 **How to reach me:** khrimon377@gmail.com
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I love tech — and somehow, tech loves me back. Whether it's solving bugs at midnight or building something new, I'm always excited to learn!
 
