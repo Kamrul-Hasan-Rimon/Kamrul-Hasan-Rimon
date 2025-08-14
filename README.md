@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Kamrul Hasan
-**A Junior Full Stack(MERN) Developer from Nanjing, china**
+**A Junior Full Stack(MERN) Developer.**
 
 Email Me 👉 ✉️ **khrimon377@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
