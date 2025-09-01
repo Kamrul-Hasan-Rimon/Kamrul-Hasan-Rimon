@@ -4,8 +4,12 @@
   </a>
 </p>
 
+<!-- Centered H1 -->
+<h1 align="center">Kamrul Hasan</h1>
+
+<!-- Small subtitle / contact row -->
 <p align="center">
-<strong>Kamrul Hasan</strong> · Junior Full-Stack Developer · <a href="mailto:khrimon377@gmail.com">khrimon377@gmail.com</a> · <a href="https://linkedin.com/in/kamrul-hasan-aa77812b5/">LinkedIn</a>
+  <em>Junior Full-Stack Developer</em> · <a href="mailto:khrimon377@gmail.com">khrimon377@gmail.com</a> · <a href="https://linkedin.com/in/kamrul-hasan-aa77812b5/">LinkedIn</a>
 </p>
 
 **Email:** ✉️ [khrimon377@gmail.com](mailto:khrimon377@gmail.com) • **Pronouns:** He/Him
