@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
- <h1><strong>Kamrul Hasan</strong> </h1> <br> Junior Full-Stack Developer · <a href="mailto:khrimon377@gmail.com">khrimon377@gmail.com</a> · <a href="https://linkedin.com/in/kamrul-hasan-aa77812b5/">LinkedIn</a>
+<strong>Kamrul Hasan</strong> · Junior Full-Stack Developer · <a href="mailto:khrimon377@gmail.com">khrimon377@gmail.com</a> · <a href="https://linkedin.com/in/kamrul-hasan-aa77812b5/">LinkedIn</a>
 </p>
 
 **Email:** ✉️ [khrimon377@gmail.com](mailto:khrimon377@gmail.com) • **Pronouns:** He/Him
