@@ -1,45 +1,117 @@
-# 💫 Hi 👋, I'm Kamrul Hasan
-**A Junior Full-Stack Developer.**
+# 💫 Kamrul Hasan — Junior Full‑Stack Developer
 
-Email Me 👉 ✉️ **khrimon377@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** A MERN-stack web app named FlexFit.This project is a fitness platform enabling users to track progress, book trainers, manage roles (admin, trainer, member), and engage in a community forum.
-- 🌱 **I’m currently learning:** Advanced React Concepts (Hooks, Context API) , GSAP Animations , Framer Motion , and improving my UI/UX design skills using Figma to become a more well-rounded full-stack developer.
-- 👯 **I’m looking to collaborate on:** Open-source MERN Stack projects , portfolio enhancements , or real-world web apps that challenge me to grow technically and creatively.
-- 🤔 **I’m looking for help with:** Improving project deployment workflows , mastering advanced Git practices , and getting feedback on how to better structure and present personal/full-stack projects.
-- 💬 **Ask me about:** MERN Stack development, project walkthroughs, beginner coding tips, or how to break into tech as a self-taught developer.
-- 📫 **How to reach me:** khrimon377@gmail.com
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I love tech — and somehow, tech loves me back. Whether it's solving bugs at midnight or building something new, I'm always excited to learn!
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kamrul-Hasan-Rimon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kamrulhasan_46392) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]( https://www.facebook.com/profile.php?id=100088101997971 ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamrul-hasan-aa77812b5/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@KamrulHasa33772) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lnahar958@gmail.com) 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kamrul-Hasan-Rimon&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kamrul-Hasan-Rimon&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamrul-Hasan-Rimon&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kamrul-Hasan-Rimon&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Email:** ✉️ [khrimon377@gmail.com](mailto:khrimon377@gmail.com) • **Pronouns:** He/Him
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kamrul-Hasan-Rimon&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I’m a MERN‑stack developer who builds fast, accessible, and maintainable web applications. I love turning product ideas into polished, production‑ready experiences — from UX to backend APIs. Currently building **FlexFit**, a fitness platform for tracking progress, booking trainers, and managing roles (admin/trainer/member).
+
+* 🔭 Currently: Building **FlexFit** (MERN) — auth, role management, booking flow, and community forum.
+  Built: **Modern Hotel** — a hotel booking & management platform (see Projects).
+* 🌱 Learning & Building: Next.js, TypeScript, Redux — actively building projects and demos using these technologies (SSR/SSG, dashboard flows, and full‑stack integrations). Also continuing Advanced React (hooks & patterns), GSAP, Framer Motion, and UI/UX with Figma.
+* 👯 Open to: Junior frontend / full‑stack roles, freelance projects, and open‑source collaboration.
+
+---
+
+## Key Strengths & Value
+
+* **End‑to‑end MERN experience:** building responsive UIs with React, state management, REST/GraphQL APIs, and MongoDB persistence.
+* **Product focus:** I ship features that users can interact with and iterate on quickly (auth, role‑based flows, booking/payment stubs, dashboards).
+* **Clean code & teamwork:** disciplined Git habits, clear commits, and readable code with tests where appropriate.
+
+---
+
+## Tech Stack (selected)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square\&logo=html5)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square\&logo=typescript)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square\&logo=react)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat-square\&logo=next.js)
+![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=flat-square\&logo=redux)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat-square\&logo=node.js)
+![Express](https://img.shields.io/badge/express.js-%23333333.svg?style=flat-square\&logo=express)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat-square\&logo=mongodb)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square\&logo=vite)
+![Tailwind CSS](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=flat-square\&logo=tailwindcss)
+
+---
+
+## Featured Projects
+
+> Each project includes a short summary, the tech used, and where to see it.
+
+### FlexFit — Fitness platform (MERN)
+
+* **What:** Users track workouts, book trainers, manage roles (admin/trainer/member), and use a community forum.
+* **Highlights:** Role‑based access, booking workflow, user progress tracking.
+* **Tech:** React, Node/Express, MongoDB, JWT auth, React Router, Tailwind/CSS.
+* **Repo / Demo:** (link to repo) • (link to live demo)
+
+### Visa Navigator
+
+* **What:** A user‑friendly portal to check visa requirements, apply online, and track status.
+* **Highlights:** Dynamic filters, responsive UI, secure CRUD operations, deployment ready.
+* **Tech:** MERN stack, Firebase/Netlify/Vercel for deployment.
+* **Repo / Demo:** (link to repo) • (link to live demo)
+
+### Modern Hotel — Hotel booking & management platform
+
+* **What:** A modern, responsive hotel website and management system I built that lets guests search rooms, check availability, make bookings, and lets admins manage rooms, rates, and bookings from a dashboard.
+* **Highlights:** Mobile‑first responsive design, real‑time availability calendar, image gallery, admin dashboard for room & rate management, booking confirmation flow, and (optional) Stripe payment integration or payment stub for demos.
+* **Tech:** React (Vite), Node/Express, MongoDB, JWT auth, React Router, Tailwind CSS, Cloudinary (images), Stripe (payments) — deployed on Vercel / Heroku.
+* **Repo / Demo:** (link to repo) • (link to live demo)
+
+### LingoBingo & Other Mini Projects
+
+* **What:** Language learning tools and small utilities to demonstrate UI skills and JavaScript fundamentals.
+* **Tech:** React, Vite, simple backend endpoints.
+* **Repo / Demo:** (link to repo)
+
+*Want these project entries tailored to a job posting? I can rewrite any of them with measurable outcomes and a TL;DR for recruiters.*
+
+---
+
+## Open Source & Contributions
+
+* I regularly contribute to personal and community repositories. If you maintain a project and want help, open an issue or DM me — I’ll respond.
+
+---
+
+## How to Work With Me
+
+* **Code style:** readable commits, labeled PRs, feature branches, and clear changelogs.
+* **Preferred tools:** GitHub, VS Code, Postman/Insomnia, Vercel/Netlify for frontend hosting.
+* **Collaboration:** I value clear issues, small milestones, and iterative feedback.
+
+---
+
+## Availability & Rates
+
+Open to junior frontend/full‑stack roles, internships, and freelance projects. Email me at [khrimon377@gmail.com](mailto:khrimon377@gmail.com) with the role, a short brief, and timelines — I’ll reply within 48 hours.
+
+---
+
+## Contact & Socials
+
+* Email — [khrimon377@gmail.com](mailto:khrimon377@gmail.com)
+* LinkedIn — [https://www.linkedin.com/in/kamrul-hasan-aa77812b5/](https://www.linkedin.com/in/kamrul-hasan-aa77812b5/)
+* X — [https://x.com/@KamrulHasa33772](https://x.com/@KamrulHasa33772)
+* Discord — [https://discord.gg/kamrulhasan\_46392](https://discord.gg/kamrulhasan_46392)
+
+---
+
+## What I’m Learning Next
+
+* Next.js (SSR/SSG, routing, and full‑stack integration) — building real projects and demos.
+* TypeScript — adding static types and improving code quality across frontend and backend.
+* Redux — state management for complex apps and scalable architectures.
+* Advanced React patterns and performance optimization
+* GSAP animations and Framer Motion for richer UI interactions
+* UI/UX design workflows in Figma
+
+
+<!-- End of file -->
+
